@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [17.1.0](https://github.com/topgrade-rs/topgrade/compare/v17.0.0...v17.1.0) - 2026-03-09
+
+### Added
+
+- *(step)* add Colima ([#1840](https://github.com/topgrade-rs/topgrade/pull/1840))
+
 ## [17.0.0](https://github.com/topgrade-rs/topgrade/compare/v16.9.0...v17.0.0) - 2026-03-06
 
 ### Breaking changes
